@@ -5,7 +5,7 @@ __pycache__/
 
 
 #datasets
-*.zip
+#*.zip
 
 
 # C extensions
